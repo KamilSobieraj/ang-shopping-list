@@ -1,0 +1,9 @@
+.img-responsive{
+  max-height: 200px;
+}
+.recipe-detail{
+  &__dropdown-element{
+    cursor: pointer;
+  }
+}
+
